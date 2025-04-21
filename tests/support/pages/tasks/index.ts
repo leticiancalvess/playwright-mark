@@ -10,7 +10,7 @@ export class TasksPage {
     }
 
     async go() {
-        await this.page.goto('http://localhost:8080')
+        await this.page.goto('/')
     }
     async create(task: TaskModel) {
         await this.inputTaskName.fill(task.name)
