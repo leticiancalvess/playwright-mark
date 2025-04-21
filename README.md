@@ -8,7 +8,7 @@ Automated UI testing with [Playwright](https://playwright.dev/)
 ### 1. Install the dependencies
 
 ```bash
-git clone https://github.com/seu-usuario/playwright-tests.git
+git clone https://github.com/leticiancalvess/playwright-mark
 npm init playwright@latest
 
 cd apps/api
