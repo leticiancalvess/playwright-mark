@@ -14,11 +14,11 @@ npm init playwright@latest
 cd apps/api
 npm install
 npm run db:init
-npx run dev
+npm run dev
 
 cd apps/web
 npm install
-npx run dev
+npm run dev
 
 ```
 ### 2. Run the tests
