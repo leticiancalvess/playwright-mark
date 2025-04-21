@@ -8,7 +8,7 @@ This project contains automated tests for web using Playwright
 
 ## 🚀 How to run the tests
 
-### 1. Start the Appium server
+### 1. Install the dependencies
 ```bash
 npm init playwright@latest
 
