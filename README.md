@@ -10,6 +10,7 @@ Automated UI testing with [Playwright](https://playwright.dev/)
 ```bash
 git clone https://github.com/leticiancalvess/playwright-mark
 npm init playwright@latest
+npm i dotenv --save-dev
 
 cd apps/api
 npm install
